@@ -1,8 +1,9 @@
-# FreeCAD
-FreeCAD Kullanım Kılavuzu, FreeCAD'de Python ile Komut Dosyası Oluşturma (Scripting) konularında Türkçe içerikli Eğitim materyalleri ve FreeCAD ile Oluşturduğum Çizimlerimi Paylaştığım repo.
+**FreeCAD Kullanım Kılavuzu**, **FreeCAD'de Python ile Komut Dosyası Oluşturma (Scripting)** konularında Türkçe içerikli Eğitim materyalleri ve FreeCAD ile Oluşturduğum Çizimlerimi Paylaştığım repo.
 
-Orijinal dosyasından yararlanarak tercüme edilmeye başanan ancak uzun bir süredir ilerlemeyen ancak temelde **3D Baskı İçin Model Hazırlama** Konusuna kadar 98 sayfa tercüme edilmiş Türkçe Kullanım Kılavuzu repoda istifadenize sunulmuş durumdadır. Dosyaya [BURADAN](https://github.com/mhalil/FreeCAD/blob/main/FreeCAD_Turkce_Kullanim_Kilavuzu.pdf) erişebilirsiniz.
+**FreeCAD'de Python ile Komut Dosyası Oluşturma (Scripting)** konusunda Türkçe kaynak oluşturmak amacıyla başladığım çalışmanın, mevcut haline [BURADAN](https://github.com/mhalil/mhalil.github.io/tree/gh-pages/FreeCAD) erişebilirsiniz.
 
-![FreeCAD Kullanım Kılavuzu Kapagi](https://github.com/mhalil/FreeCAD/blob/main/img/FreeCAD%20_KK_Kapak.png)
+Orijinal Kılavuzundan yararlanarak tercüme etmeye başlama rağmen, uzun bir süredir bitiremediğim ancak **3D Baskı İçin Model Hazırlama** Konusuna kadar toplam 98 sayfa tercüme ettiğim **Türkçe Kullanım Kılavuzu**nu istifadenize sunuyorum.
 
-![FreeCAD ve Python](https://github.com/mhalil/mhalil.github.io/raw/gh-pages/img/FreeCAD_Python.png)
+Tercüme edilmiş FreeCAD Türkçe Kullanım Kılavuzuna [BURADAN](https://github.com/mhalil/FreeCAD/blob/main/FreeCAD_Turkce_Kullanim_Kilavuzu.pdf) erişebilirsiniz.
+
+![FreeCAD Kullanım Kılavuzu Kapagi](img/FreeCAD%20_KK_Kapak.png)
